@@ -8,7 +8,6 @@
 	n1 db ?
 	n2 db ?
 ends data
-
 addnos macro a,b
 	mov al,a
 	add al,b
